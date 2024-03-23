@@ -7,4 +7,8 @@ Moscow Coin is token on TON with supply adjusted annually according to data on M
 
 ### Want some?
 
-Contact EQAHKbLdz2xj7Hg4DUURI50NjTo8E2ryU6Tz4mJb3xVkt97N for airdrop
+Contact EQAHKbLdz2xj7Hg4DUURI50NjTo8E2ryU6Tz4mJb3xVkt97N or post in issues on https://github.com/MoscowCoin/MoscowCoin for airdrop
+
+### Got ideas?
+
+Please, contact on issues tab
