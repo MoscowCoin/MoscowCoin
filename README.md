@@ -3,12 +3,13 @@
 
 ### What is Mosocw Coin (MSK)? 👋
 
-Moscow Coin is token on TON with supply adjusted annually according to data on Moscow population from the Federal State Statistics Service
+Moscow Coin is a jetton on TON with supply limited to Moscow population as for 2023 data by Russian Federal State Statistics Service
+Official Channel: https://t.me/mskcointon_official
 
 ### Want some?
 
-Request MSK on https://t.me/mskcointon or post an issue on https://github.com/MoscowCoin/MoscowCoin for airdrop to your wallet
+Request MSK on https://t.me/mskcointon for airdrop to your wallet
 
 ### Got ideas?
 
-Please, contact on issues tab
+Please, contact on issues tab or in Telegram group
