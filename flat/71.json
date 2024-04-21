@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/2.png",
+    "name": "2-к квартира ЮВАО",
+    "description": "2-к квартира площадью 50 кв.м. в районе Капотня ЮВАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "2"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "50"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Капотня"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЮВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "7"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

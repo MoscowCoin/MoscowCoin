@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/0.png",
+    "name": "Студия ЮАО",
+    "description": "Студия площадью 17 кв.м. в районе Даниловский ЮАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "Студия"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "17"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Даниловский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЮАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "15"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
