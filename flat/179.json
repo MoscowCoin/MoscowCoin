@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/4.png",
+    "name": "Элитная 4-к квартира ЦАО",
+    "description": "Элитная 4-к квартира площадью 100 кв.м. в районе Таганский ЦАО г. Москвы в 15 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "4"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "100"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Таганский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЦАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "11"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "15"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
