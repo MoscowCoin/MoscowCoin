@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/2.png",
+    "name": "2-к квартира СЗАО",
+    "description": "2-к квартира площадью 60 кв.м. в районе Строгино СЗАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "2"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "60"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Строгино"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "СЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "21"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
