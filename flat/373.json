@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/0.png",
+    "name": "Студия ЦАО",
+    "description": "Студия площадью 17 кв.м. в районе Замоскворечье ЦАО г. Москвы в 15 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "Студия"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "17"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Замоскворечье"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЦАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "5"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "15"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

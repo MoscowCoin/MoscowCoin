@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/1.png",
+    "name": "1-к квартира ЮЗАО",
+    "description": "1-к квартира площадью 33 кв.м. в районе Черёмушки ЮЗАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "1"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "33"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Черёмушки"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЮЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "20"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

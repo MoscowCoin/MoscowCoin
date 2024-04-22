@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/2.png",
+    "name": "2-к квартира ВАО",
+    "description": "2-к квартира площадью 48 кв.м. в районе Косино-Ухтомский ВАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "2"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "48"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Косино-Ухтомский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "5"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

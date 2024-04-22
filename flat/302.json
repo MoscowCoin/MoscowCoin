@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/4.png",
+    "name": "4-к квартира СВАО",
+    "description": "4-к квартира площадью 130 кв.м. в районе Отрадное СВАО г. Москвы в 15 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "4"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "130"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Отрадное"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "СВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "12"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "15"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

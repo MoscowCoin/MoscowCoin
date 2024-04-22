@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/0.png",
+    "name": "Студия СЗАО",
+    "description": "Студия площадью 17 кв.м. в районе Покровское-Стрешнево СЗАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "Студия"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "17"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Покровское-Стрешнево"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "СЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "7"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

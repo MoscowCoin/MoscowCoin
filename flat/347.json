@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/1.png",
+    "name": "1-к квартира ЗАО",
+    "description": "1-к квартира площадью 42 кв.м. в районе Крылатское ЗАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "1"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "42"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Крылатское"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "4"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
