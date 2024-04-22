@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/0.png",
+    "name": "Студия САО",
+    "description": "Студия площадью 23 кв.м. в районе Хорошёвский САО г. Москвы в 3 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "Студия"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "23"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Хорошёвский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "САО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "6"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "3"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

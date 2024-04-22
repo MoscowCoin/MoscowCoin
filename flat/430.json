@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/3.png",
+    "name": "3-к квартира ЮВАО",
+    "description": "3-к квартира площадью 75 кв.м. в районе Нижегородский ЮВАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "3"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "75"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Нижегородский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЮВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "17"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

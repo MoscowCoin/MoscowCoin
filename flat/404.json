@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/4.png",
+    "name": "4-к квартира СВАО",
+    "description": "4-к квартира площадью 100 кв.м. в районе Марьина Роща СВАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "4"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "100"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Марьина Роща"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "СВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "13"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

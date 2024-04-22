@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/1.png",
+    "name": "1-к квартира ЗАО",
+    "description": "1-к квартира площадью 33 кв.м. в районе Солнцево ЗАО г. Москвы в 3 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "1"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "33"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Солнцево"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "16"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "3"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

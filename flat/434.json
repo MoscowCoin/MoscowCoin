@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/1.png",
+    "name": "1-к квартира ЮАО",
+    "description": "1-к квартира площадью 42 кв.м. в районе Даниловский ЮАО г. Москвы в 3 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "1"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "42"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Даниловский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЮАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "5"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "3"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
