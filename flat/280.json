@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/0.png",
+    "name": "Студия ЦАО",
+    "description": "Студия площадью 17 кв.м. в районе Якиманка ЦАО г. Москвы в 3 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "Студия"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "17"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Якиманка"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЦАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "16"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "3"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

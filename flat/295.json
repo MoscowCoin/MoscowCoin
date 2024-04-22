@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/4.png",
+    "name": "4-к квартира ЗАО",
+    "description": "4-к квартира площадью 110 кв.м. в районе Кунцево ЗАО г. Москвы в 3 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "4"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "110"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Кунцево"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "ЗАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "7"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "3"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

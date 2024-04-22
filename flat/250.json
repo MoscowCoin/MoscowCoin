@@ -1,0 +1,32 @@
+﻿{
+    "image": "https://moscowcoin.github.io/MoscowCoin/flat/images/1.png",
+    "name": "1-к квартира СВАО",
+    "description": "1-к квартира площадью 42 кв.м. в районе Бабушкинский СВАО г. Москвы в 10 минутах ходьбы от метро",
+    "attributes": [
+        {
+            "trait_type": "Комнаты",
+            "value": "1"
+        },
+        {
+            "trait_type": "Площадь",
+            "value": "42"
+        },
+        {
+            "trait_type": "Район",
+            "value": "Бабушкинский"
+        },
+        {
+            "trait_type": "Округ",
+            "value": "СВАО"
+        },
+        {
+            "trait_type": "Этаж",
+            "value": "9"
+        },
+        {
+            "trait_type": "Минут до метро",
+            "value": "10"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
